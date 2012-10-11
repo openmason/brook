@@ -1,0 +1,15 @@
+{
+  "name": "brook",
+  "description": "stream of events",
+  "homepage": "https://github.com/openmason/brook",
+  "version": "0.0.1",
+  "author": "el aras <openmason@gmail.com>",
+  "dependencies": {
+  },
+  "devDependencies": [],
+  "keywords": ["stream", "engine"],
+  "repository": {"type":"git", "url": "git://github.com/openmason/brook"},
+  "main": "index",
+  "scripts": { "prepublish" : "npm prune" },
+  "engines": { "node":">= 0.6.6" }
+}
