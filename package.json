@@ -5,7 +5,7 @@
   "version": "0.0.2",
   "author": "el aras <openmason@gmail.com>",
   "dependencies": {
-    'zmq':  '>= 2.1.0'
+    "zmq":  ">= 2.1.0"
   },
   "devDependencies": [],
   "keywords": ["stream", "engine"],
