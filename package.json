@@ -2,7 +2,7 @@
   "name": "brook",
   "description": "stream of events",
   "homepage": "https://github.com/openmason/brook",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "el aras <openmason@gmail.com>",
   "dependencies": {
     "zmq":  ">= 2.1.0"
